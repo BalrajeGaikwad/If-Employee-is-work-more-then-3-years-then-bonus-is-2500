@@ -17,6 +17,6 @@ emp=0
 
 if(total_year>3):
     emp+=2500
-    print(emp)
+    print(emp," : - employee is able to take a bonus")
 else:
     print("not able to take a bonus u need to complete atleast 3 years in organization")
